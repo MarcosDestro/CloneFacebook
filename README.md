@@ -37,3 +37,7 @@ class Usuario extends Model {
 
 }
 ```
+
+## Print Telas:
+![Screenshot](screenshot01.png)
+![Screenshot](screenshot02.png)
